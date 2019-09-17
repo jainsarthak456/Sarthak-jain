@@ -1,0 +1,29 @@
+# Created at 2019-09-10T17:37:27.374
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+# Created at 2019-09-10T17:37:31.590
+Unexpected IOException with stream: 
+
+
+# Created at 2019-09-10T17:37:39.019
+Unexpected IOException with stream: Extramarks India
+
+
+# Created at 2019-09-10T17:37:39.030
+Unexpected IOException with stream: Extramarks India
+
+
+# Created at 2019-09-10T17:37:46.044
+Unexpected IOException: 6,1,com.ExtramarksWebsite_TestCases.MentorLoginTest,doLogin(com.ExtramarksWebsite_TestCases.MentorLoginTest),null,null,null
+
+
+# Created at 2019-09-10T17:37:57.200
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

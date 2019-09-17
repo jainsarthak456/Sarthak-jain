@@ -1,0 +1,39 @@
+2019-06-18 10:33:01,535 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-06-18 10:35:21,997 [Worker-15: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Com.Extramarks_Website:ExtramarksWebsite:0.0.1-SNAPSHOT @ D:\LPT\ExtramarksWebsite\pom.xml.
+2019-06-18 10:35:22,330 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-client:jar:9.2.12.v20150709 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-06-18 10:35:23,834 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-18 10:35:23,834 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LPT\ExtramarksWebsite\src\main\resources
+2019-06-18 10:35:23,836 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-18 10:35:23,840 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-06-18 10:35:25,735 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-client:jar:9.2.12.v20150709 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-06-18 10:35:25,805 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-18 10:35:25,805 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LPT\ExtramarksWebsite\src\main\resources
+2019-06-18 10:35:25,806 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-18 10:35:25,809 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-06-18 10:38:04,060 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-18 10:38:04,060 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LPT\ExtramarksWebsite\src\main\resources
+2019-06-18 10:38:04,061 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-18 10:38:04,061 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-18 10:39:05,062 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-18 10:39:05,063 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LPT\ExtramarksWebsite\src\main\resources
+2019-06-18 10:39:05,064 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-18 10:39:05,065 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-06-19 17:32:19,752 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-06-19 17:32:57,763 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-06-19 17:33:06,753 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-client:jar:9.2.12.v20150709 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-06-19 17:33:11,561 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 17:33:11,562 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LPT\ExtramarksWebsite\src\main\resources
+2019-06-19 17:33:11,564 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 17:33:11,568 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-06-19 17:33:27,922 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-06-19 17:33:31,930 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-client:jar:9.2.12.v20150709 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-06-19 17:33:32,285 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 17:33:32,285 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LPT\ExtramarksWebsite\src\main\resources
+2019-06-19 17:33:32,287 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 17:33:32,291 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-07-30 16:32:52,541 [Worker-2: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-07-30 16:33:13,108 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-client:jar:9.2.12.v20150709 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-07-30 16:33:18,928 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-30 16:33:18,928 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LPT\ExtramarksWebsite\src\main\resources
+2019-07-30 16:33:18,930 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-30 16:33:18,933 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources

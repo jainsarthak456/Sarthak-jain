@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="4" guice-stage="DEVELOPMENT" name="Failed suite [ExtramarksWebsiteSuite]" parallel="classes">
+  <test name="Mentor Login Test(failed)" parallel="classes">
+    <classes>
+      <class name="com.ExtramarksWebsite_TestCases.StudentLoginTest">
+        <methods>
+          <include name="LogOut"/>
+          <include name="init"/>
+          <include name="quit"/>
+        </methods>
+      </class> <!-- com.ExtramarksWebsite_TestCases.StudentLoginTest -->
+      <class name="com.ExtramarksWebsite_TestCases.MentorLoginTest">
+        <methods>
+          <include name="init"/>
+          <include name="doLogin" invocation-numbers="0"/>
+          <include name="LogOut"/>
+        </methods>
+      </class> <!-- com.ExtramarksWebsite_TestCases.MentorLoginTest -->
+    </classes>
+  </test> <!-- Mentor Login Test(failed) -->
+</suite> <!-- Failed suite [ExtramarksWebsiteSuite] -->

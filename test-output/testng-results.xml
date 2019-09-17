@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42637" started-at="2019-09-16T12:31:23Z" finished-at="2019-09-16T12:32:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42637" started-at="2019-09-16T12:31:23Z" finished-at="2019-09-16T12:32:06Z">
+      <class name="com.ExtramarksWebsite_TestCases.StudentLoginTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.ExtramarksWebsite_TestCases.StudentLoginTest@6c64cb25]" name="init" is-config="true" duration-ms="115" started-at="2019-09-16T12:31:23Z" finished-at="2019-09-16T12:31:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="doLogin(java.util.Hashtable)[pri:0, instance:com.ExtramarksWebsite_TestCases.StudentLoginTest@6c64cb25]" name="doLogin" duration-ms="30598" started-at="2019-09-16T12:31:23Z" data-provider="getData" finished-at="2019-09-16T12:31:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Board=CBSE, Username=9019029039, Class=V, ExpectedResult=Success, Password=123456, Runmode=Y, Browser=Chrome}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="LogOut()[pri:0, instance:com.ExtramarksWebsite_TestCases.StudentLoginTest@6c64cb25]" name="LogOut" is-config="true" duration-ms="11651" started-at="2019-09-16T12:31:54Z" finished-at="2019-09-16T12:32:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOut -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.ExtramarksWebsite_TestCases.StudentLoginTest@6c64cb25]" name="quit" is-config="true" duration-ms="198" started-at="2019-09-16T12:32:06Z" finished-at="2019-09-16T12:32:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.ExtramarksWebsite_TestCases.StudentLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
